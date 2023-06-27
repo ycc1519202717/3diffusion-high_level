@@ -1,0 +1,8 @@
+https://civitai.com/models/13941
+
+midjourney与stable_diffusion的像素平均值对比。
+也就是明暗差距对比。
+mid的亮部要更亮，暗部更暗。
+stable颜色更加平。
+原因是stable要求亮度平均值为0.5。
+解决办法是增加offset noise，原理是增加一个约束，让最终图片和一开始的具体模糊图像颜色值一样。

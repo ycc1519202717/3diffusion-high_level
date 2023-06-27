@@ -1,0 +1,15 @@
+使用白板模型，mmd生成动画。
+只是改变风格，改变外貌。
+
+
+https://www.bilibili.com/video/BV1Fs4y1V7f7/?spm_id_from=333.999.0.0&vd_source=861a961f2943d04cc1181c47cbcc2f76
+
+https://www.bilibili.com/video/BV1X24y1x7vg/?vd_source=861a961f2943d04cc1181c47cbcc2f76
+
+https://www.bilibili.com/video/BV1tL411D7tv/?spm_id_from=333.999.0.0
+
+
+1使用blender创建白板动作模型，并且按帧数裁剪成图片。
+2使用controlnet渲染。
+3批量处理or多帧渲染法，渲染所有图片。
+4拼接成视频。
